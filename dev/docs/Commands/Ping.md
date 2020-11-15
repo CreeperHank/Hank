@@ -1,1 +1,1 @@
-# 指令-Ping
+# Command-Ping

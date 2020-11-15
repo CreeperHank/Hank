@@ -1,7 +1,6 @@
 module.exports = {
     title: 'Creeper BOT',
     description: 'Welcome!Creeper BOT~',
-    base: 'Hank',
     themeConfig: {
         sidebar: [
           '/',
