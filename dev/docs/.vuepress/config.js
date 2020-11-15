@@ -1,12 +1,12 @@
 module.exports = {
-    title: 'Creeper BOT官方網站',
-    description: '歡迎使用Creeper BOT',
+    title: 'Creeper BOT',
+    description: 'Welcome!Creeper BOT~',
     base: 'Hank',
     themeConfig: {
         sidebar: [
           '/',
           {
-              title:'指令',
+              title:'Commands',
               path:'/Commands/',
               children:[
                   '/Commands/Ping.md',
